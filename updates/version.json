@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "deleted_topics": [
+    {
+      "specialty": "Medical Emergencies",
+      "subsystem": "Cardiovascular",
+      "title": "Old Topic to Delete"
+    }
+  ],
+  "new_topics_log": [
+    "Added: New Heart Failure Protocol",
+    "Updated: Acute Coronary Syndrome (ACS)"
+  ]
+}
