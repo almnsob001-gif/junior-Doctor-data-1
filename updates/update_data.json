@@ -1,0 +1,16 @@
+{
+  "Medical Emergencies": {
+    "Cardiovascular": [
+      {
+        "title": "New Drug Protocol for Heart Failure",
+        "sections": [
+          {
+            "heading": "01 — DOSAGE",
+            "type": "success",
+            "content": "Give 10mg daily."
+          }
+        ]
+      }
+    ]
+  }
+}
