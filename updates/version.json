@@ -1,13 +1,7 @@
 {
-  "version": 5,0
+  "version": 6,
   "deleted_topics": [],
   "new_topics_log": [
-    "Added: Adult Cardiac Arrest",
-    "Added: Acute Coronary Syndrome (ACS)",
-    "Added: Nephritic Syndrome",
-    "Added: Nephrotic Syndrome",
-    "Added: Tetanus",
-    "Added: Rabies",
-    "Added: Diphtheria"
+    "Updated: Adult Cardiac Arrest"
   ]
 }
