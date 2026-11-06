@@ -1,14 +1,13 @@
 {
-  "version": 2,
-  "deleted_topics": [
-    {
-      "specialty": "Medical Emergencies",
-      "subsystem": "Cardiovascular",
-      "title": "Old Topic to Delete"
-    }
-  ],
+  "version": 3,
+  "deleted_topics": [],
   "new_topics_log": [
-    "Added: New Heart Failure Protocol",
-    "Updated: Acute Coronary Syndrome (ACS)"
+    "Added: Adult Cardiac Arrest",
+    "Added: Acute Coronary Syndrome (ACS)",
+    "Added: Nephritic Syndrome",
+    "Added: Nephrotic Syndrome",
+    "Added: Tetanus",
+    "Added: Rabies",
+    "Added: Diphtheria"
   ]
 }
