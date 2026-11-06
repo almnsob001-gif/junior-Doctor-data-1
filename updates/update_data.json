@@ -2,12 +2,12 @@
   "Medical Emergencies": {
     "Cardiovascular": [
       {
-        "title": "Adult Cardiac Arrest",
+        "title": "My New Test Topic",
         "sections": [
           {
-            "heading": "TEST UPDATE",
+            "heading": "SUCCESS",
             "type": "info",
-            "content": "This is a test content to verify the update system."
+            "content": "If you see this topic in the app, the update system works perfectly!"
           }
         ]
       }
