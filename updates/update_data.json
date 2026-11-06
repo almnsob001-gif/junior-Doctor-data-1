@@ -2,12 +2,32 @@
   "Medical Emergencies": {
     "Cardiovascular": [
       {
-        "title": "New Drug Protocol for Heart Failure",
+        "title": "New Heart Failure Protocol",
         "sections": [
           {
-            "heading": "01 — DOSAGE",
+            "heading": "01 — INITIAL MANAGEMENT",
+            "type": "info",
+            "content": "Assess ABCs, oxygen saturation, and establish IV access. Sit patient upright."
+          },
+          {
+            "heading": "02 — MEDICATION",
             "type": "success",
-            "content": "Give 10mg daily."
+            "content": "Administer Furosemide 40mg IV slowly. Monitor urine output."
+          },
+          {
+            "heading": "03 — WARNING",
+            "type": "danger",
+            "content": "Do not give beta-blockers in acute decompensated heart failure."
+          }
+        ]
+      },
+      {
+        "title": "Acute Coronary Syndrome (ACS)",
+        "sections": [
+          {
+            "heading": "01 — RECOGNIZE",
+            "type": "info",
+            "content": "[UPDATED] This is an updated version of the ACS topic. Central chest pressure, heaviness, or pain radiating to the arm, jaw, back."
           }
         ]
       }
