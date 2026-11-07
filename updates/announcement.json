@@ -2,15 +2,27 @@
   "Announcements": {
     "General": [
       {
-        "title": "إعلان هام لجميع الأطباء",
+        "title": "Welcome to Junior Doctor!",
         "sections": [
           {
-            "heading": "تحديث جديد",
-            "content": "تمت إضافة مواضيع جديدة في قسم الطوارئ. يرجى تحديث التطبيق للاستفادة من المحتوى الجديد."
+            "heading": "Your Clinical Companion",
+            "type": "info",
+            "content": "Welcome to the Junior Doctor app! We are thrilled to support you on your medical journey. This app is designed to provide you with quick, reliable, and evidence-based clinical essentials right at your fingertips."
           },
           {
-            "heading": "ملاحظة",
-            "content": "يمكنك دائماً مراجعة قسم الإعدادات لفحص التحديثات يدوياً."
+            "heading": "Built for Your Success",
+            "type": "success",
+            "content": "Whether you are a medical student, an intern, or a junior resident, our goal is to make your daily clinical practice smoother. Explore our comprehensive medical topics, utilize our interactive clinical calculators, and save your personal notes seamlessly."
+          },
+          {
+            "heading": "Always Up to Date",
+            "type": "warning",
+            "content": "Medicine never stops evolving, and neither do we. We continuously update our database with new topics and the latest guidelines. Keep an eye out for our 'What's New' popups to stay informed!"
+          },
+          {
+            "heading": "Medical Disclaimer",
+            "type": "danger",
+            "content": "Please remember that this app is intended for educational and quick-reference purposes only. It is designed to support, not replace, your clinical judgment. Always verify information against local guidelines."
           }
         ]
       }
