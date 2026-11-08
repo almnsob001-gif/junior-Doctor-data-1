@@ -1,8 +1,12 @@
 {
-  "version": 15,
+  "version": 16,
   "deleted_topics": [],
   "new_topics_log": [
     "Added full content for: Adult Cardiac Arrest, ACS, Nephritic, Nephrotic, Tetanus, Rabies, Diphtheria"
   ],
-  "mcq_password": "O774602007p#"
+  "mcq_password": "junior2026#",
+  "locked_specialties": {
+    "Surgery": "surgerybelly#"
+  },
+  "hidden_specialties": []
 }
