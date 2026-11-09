@@ -1,0 +1,6 @@
+{
+  "Pediatrics": ["pediatrics/pediatrics.json"],
+  "Surgery": ["surgery/surgery.json"],
+  "Obstetrics": ["obstetrics/obstetrics.json"],
+  "Orthopedics": ["orthopedics/orthopedics.json"]
+}
