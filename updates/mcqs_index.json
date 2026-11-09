@@ -1,6 +1,12 @@
 {
-  "Pediatrics": ["pediatrics/pediatrics.json"],
-  "Surgery": ["surgery/surgery.json"],
-  "Obstetrics": ["obstetrics/obstetrics.json"],
-  "Orthopedics": ["orthopedics/orthopedics.json"]
+  "folders": {
+    "Pediatrics": "pediatrics",
+    "Surgery": "surgery",
+    "Obstetrics": "obstetrics",
+    "Orthopedics": "orthopedics",
+    "Internal Medicine": "internal_medicine",
+    "ENT": "ent",
+    "Urology": "urology",
+    "Ophthalmology": "ophthalmology"
+  }
 }
