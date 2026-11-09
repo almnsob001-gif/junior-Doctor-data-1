@@ -1,0 +1,34 @@
+{
+  "Pediatrics": {
+    "folder": "pediatrics",
+    "files": ["pediatrics.json"]
+  },
+  "Surgery": {
+    "folder": "surgery",
+    "files": ["surgery.json"]
+  },
+  "Obstetrics": {
+    "folder": "obstetrics",
+    "files": ["obstetrics.json", "gynobstetrics.json"]
+  },
+  "Orthopedics": {
+    "folder": "orthopedics",
+    "files": ["orthopedics.json"]
+  },
+  "Internal Medicine": {
+    "folder": "internal_medicine",
+    "files": ["davidson_medicine.json", "internal_medicine.json"]
+  },
+  "ENT": {
+    "folder": "ent",
+    "files": []
+  },
+  "Urology": {
+    "folder": "urology",
+    "files": []
+  },
+  "Ophthalmology": {
+    "folder": "ophthalmology",
+    "files": []
+  }
+}
