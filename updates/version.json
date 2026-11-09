@@ -1,8 +1,10 @@
 {
-  "version": 21,
+  "version": 17,
   "mcqs_version": 1,
   "deleted_topics": [],
-  "new_topics_log": ["..."],
+  "new_topics_log": [
+    "Added full content for: Adult Cardiac Arrest, ACS, Nephritic, Nephrotic, Tetanus, Rabies, Diphtheria"
+  ],
   "mcq_password": "junior2026#",
   "locked_specialties": {},
   "hidden_specialties": []
