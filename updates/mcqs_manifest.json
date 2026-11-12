@@ -82,17 +82,5 @@
   "Unknown": {
     "folder": "unknown",
     "files": ["part_001.json"]
-  },
-  "Internal Medicine": {
-    "folder": "internal_medicine",
-    "files": ["davidson_medicine.json", "internal_medicine.json"]
-  },
-  "Orthopedics": {
-    "folder": "orthopedics",
-    "files": ["orthopedics.json"]
-  },
-  "Obstetrics": {
-    "folder": "obstetrics",
-    "files": ["obstetrics.json", "gynobstetrics.json"]
   }
 }
