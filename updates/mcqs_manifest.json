@@ -1,34 +1,98 @@
 {
-  "Pediatrics": {
-    "folder": "pediatrics",
-    "files": ["pediatrics.json"]
+  "Anatomy": {
+    "folder": "anatomy",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Biochemistry": {
+    "folder": "biochemistry",
+    "files": ["part_001.json", "part_002.json"]
   },
   "Surgery": {
     "folder": "surgery",
-    "files": ["surgery.json"]
+    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json"]
   },
-  "Obstetrics": {
-    "folder": "obstetrics",
-    "files": ["obstetrics.json", "gynobstetrics.json"]
+  "Ophthalmology": {
+    "folder": "ophthalmology",
+    "files": ["part_001.json", "part_002.json"]
   },
-  "Orthopedics": {
-    "folder": "orthopedics",
-    "files": ["orthopedics.json"]
+  "Physiology": {
+    "folder": "physiology",
+    "files": ["part_001.json", "part_002.json"]
+  },
+  "Social & Preventive Medicine": {
+    "folder": "social_preventive_medicine",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Gynaecology & Obstetrics": {
+    "folder": "gynaecology_obstetrics",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Anaesthesia": {
+    "folder": "anaesthesia",
+    "files": ["part_001.json"]
+  },
+  "Psychiatry": {
+    "folder": "psychiatry",
+    "files": ["part_001.json"]
+  },
+  "Microbiology": {
+    "folder": "microbiology",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Medicine": {
+    "folder": "medicine",
+    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json"]
+  },
+  "Pharmacology": {
+    "folder": "pharmacology",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Dental": {
+    "folder": "dental",
+    "files": ["part_001.json", "part_002.json"]
+  },
+  "ENT": {
+    "folder": "ent",
+    "files": ["part_001.json"]
+  },
+  "Forensic Medicine": {
+    "folder": "forensic_medicine",
+    "files": ["part_001.json", "part_002.json"]
+  },
+  "Pediatrics": {
+    "folder": "pediatrics",
+    "files": ["part_001.json", "part_002.json"]
+  },
+  "Orthopaedics": {
+    "folder": "orthopaedics",
+    "files": ["part_001.json"]
+  },
+  "Radiology": {
+    "folder": "radiology",
+    "files": ["part_001.json"]
+  },
+  "Pathology": {
+    "folder": "pathology",
+    "files": ["part_001.json", "part_002.json", "part_003.json"]
+  },
+  "Skin": {
+    "folder": "skin",
+    "files": ["part_001.json"]
+  },
+  "Unknown": {
+    "folder": "unknown",
+    "files": ["part_001.json"]
   },
   "Internal Medicine": {
     "folder": "internal_medicine",
     "files": ["davidson_medicine.json", "internal_medicine.json"]
   },
-  "ENT": {
-    "folder": "ent",
-    "files": []
+  "Orthopedics": {
+    "folder": "orthopedics",
+    "files": ["orthopedics.json"]
   },
-  "Urology": {
-    "folder": "urology",
-    "files": []
-  },
-  "Ophthalmology": {
-    "folder": "ophthalmology",
-    "files": []
+  "Obstetrics": {
+    "folder": "obstetrics",
+    "files": ["obstetrics.json", "gynobstetrics.json"]
   }
 }
