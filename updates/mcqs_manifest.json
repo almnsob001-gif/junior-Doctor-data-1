@@ -9,7 +9,7 @@
   },
   "Surgery": {
     "folder": "surgery",
-    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json"]
+    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json", "belly.json"]
   },
   "Ophthalmology": {
     "folder": "ophthalmology",
