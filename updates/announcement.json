@@ -2,27 +2,32 @@
   "Announcements": {
     "General": [
       {
-        "title": "Welcome to MedVault",
+        "title": "📢 تحديث جديد لتطبيق MedVault!",
         "sections": [
           {
-            "heading": "Your Clinical Companion",
-            "type": "info",
-            "content": "Welcome to the Junior Doctor app! We are thrilled to support you on your medical journey. This app is designed to provide you with quick, reliable, and evidence-based clinical essentials right at your fingertips."
-          },
-          {
-            "heading": "Built for Your Success",
+            "heading": "🎉 ميزة جديدة: لوحة المتصدرين (Leaderboard)",
             "type": "success",
-            "content": "Whether you are a medical student, an intern, or a junior resident, our goal is to make your daily clinical practice smoother. Explore our comprehensive medical topics, utilize our interactive clinical calculators, and save your personal notes seamlessly."
+            "content": "هذه هي النسخة المحدّثة من التطبيق، وتتضمن إضافة ميزة جديدة وهي لوحة المتصدرين، التي تتيح لك معرفة ترتيبك ومقارنة أدائك مع بقية المستخدمين."
           },
           {
-            "heading": "Always Up to Date",
+            "heading": "📲 طريقة التحديث",
+            "type": "info",
+            "content": "قم بتحميل النسخة الجديدة وتثبيتها مباشرة فوق النسخة السابقة، دون الحاجة إلى حذف التطبيق القديم."
+          },
+          {
+            "heading": "🏆 كيف تضيف اسمك إلى لوحة المتصدرين؟",
+            "type": "info",
+            "content": "1️⃣ افتح التطبيق وانتقل إلى الإعدادات (Settings).\n2️⃣ في خانة اسمي في المتصدرين، اضغط على رمز القلم ✏️ وأدخل الاسم الذي تريد ظهوره.\n3️⃣ بعد ذلك، اضغط على خيار لوحة المتصدرين الموجود أعلى الخانة.\n4️⃣ ستظهر لك لوحة المتصدرين، ويمكنك معرفة ترتيبك ومركزك بين بقية المشاركين."
+          },
+          {
+            "heading": "🔥 حدّث التطبيق الآن",
+            "type": "success",
+            "content": "أضف اسمك، وابدأ المنافسة على المراكز الأولى!\nمن سيكون في صدارة المتصدرين؟ 🏆"
+          },
+          {
+            "heading": "📞 لم تحمّل النسخة المحدثة بعد؟",
             "type": "warning",
-            "content": "Medicine never stops evolving, and neither do we. We continuously update our database with new topics and the latest guidelines. Keep an eye out for our 'What's New' popups to stay informed!"
-          },
-          {
-            "heading": "Medical Disclaimer",
-            "type": "danger",
-            "content": "Please remember that this app is intended for educational and quick-reference purposes only. It is designed to support, not replace, your clinical judgment. Always verify information against local guidelines."
+            "content": "تواصل معنا عبر واتساب على الرقم: +967 774 602 007"
           }
         ]
       }
