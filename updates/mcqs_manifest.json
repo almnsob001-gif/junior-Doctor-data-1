@@ -9,16 +9,11 @@
   },
   "Surgery": {
     "folder": "surgery",
-    "files": [
-      "belly.json", 
-      "Darren.json.enc", 
-      "Christian_DeVirgilio,_Areg_Grigorian_Review_of_Surgery_for_ABSITE.json.enc", 
-      "ASIR_Surgical_MCQs_Bank.json.enc",
-      "indian_surgery/part_001.json", 
-      "indian_surgery/part_002.json", 
-      "indian_surgery/part_003.json", 
-      "indian_surgery/part_004.json"
-    ]
+    "files": ["belly.json", "Darren.json", "Christian_DeVirgilio,_Areg_Grigorian_Review_of_Surgery_for_ABSITE.json", "ASIR_Surgical_MCQs_Bank.json"]
+  },
+  "Indian Surgery": {
+    "folder": "surgery/indian_surgery",
+    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json"]
   },
   "Ophthalmology": {
     "folder": "ophthalmology",
@@ -50,7 +45,7 @@
   },
   "Medicine": {
     "folder": "medicine",
-    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json", "davidson.json.enc", "Medicine_PreTest.json.enc"]
+    "files": ["part_001.json", "part_002.json", "part_003.json", "part_004.json", "davidson.json", "Medicine_PreTest.json"]
   },
   "Pharmacology": {
     "folder": "pharmacology",
