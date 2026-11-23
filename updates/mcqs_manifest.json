@@ -9,7 +9,7 @@
   },
   "Surgery": {
     "folder": "surgery",
-    "files": ["belly.json", "Darren.json", "Christian_DeVirgilio,_Areg_Grigorian_Review_of_Surgery_for_ABSITE.json", "ASIR_Surgical_MCQs_Bank.json", "Oxford_SBA_MCQs.json.enc", "Get_Through_SBAs.json.enc", "Get_Ahead_Surgery_250_SBAs_for_Finals.json.enc", "Pre_Test_14th.json.enc", "Lange_Q&A-Surgery_(McGraw-Hill,2007).json.enc", "Review_of_surgery_550Q-1.json.enc", "Bailey&Love_SBAs_for_MRCS_Part_A_2nd.json.enc", "RUSH_surgery_review_6th_edition.json.enc"]
+    "files": ["belly.json", "Darren.json", "Christian_DeVirgilio,_Areg_Grigorian_Review_of_Surgery_for_ABSITE.json", "ASIR_Surgical_MCQs_Bank.json", "Oxford_SBA_MCQs.json.enc", "Get_Through_SBAs.json.enc", "Get_Ahead_Surgery_250_SBAs_for_Finals.json.enc", "Pre_Test_14th.json.enc", "Lange_Q&A-Surgery_(McGraw-Hill,2007).json.enc", "Review_of_surgery_550Q-1.json.enc", "Bailey&Love_SBAs_for_MRCS_Part_A_2nd.json.enc", "RUSH_surgery_review_6th_edition.json.enc", "Schwart's_F_Charles_Brunicardi,_Dana_K_Andersen,_Timothy_R_Billiar.json.enc"]
   },
   "Indian Surgery": {
     "folder": "surgery/indian_surgery",
