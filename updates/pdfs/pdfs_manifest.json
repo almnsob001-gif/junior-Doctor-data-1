@@ -1,0 +1,13 @@
+{
+  "Internal Medicine": {
+    "folder": "Internal_medicine",
+    "files": [
+      {
+        "name": "Internal Medicine Notes",
+        "file": "internal_medicine_notes.pdf",
+        "size": "5 MB",
+        "description": "Medical Notes"
+      }
+    ]
+  }
+}
