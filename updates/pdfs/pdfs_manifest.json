@@ -1,11 +1,18 @@
+
 {
   "Internal Medicine": {
     "folder": "Internal_medicine",
     "files": [
       {
-        "name": "Internal Medicine Notes",
+        "name": "Get Ahead Surgery - 250 SBAs for Finals",
         "file": "Get_Ahead_Surgery_250_SBAs_for_Finals.pdf",
         "size": "2.77 MB",
+        "description": "Surgery Questions"
+      },
+      {
+        "name": "Internal Medicine Notes",
+        "file": "internal_medicine_note.pdf",
+        "size": "غير محدد",
         "description": "Medical Notes"
       }
     ]
